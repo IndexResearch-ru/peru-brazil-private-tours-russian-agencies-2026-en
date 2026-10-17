@@ -285,6 +285,6 @@ The **canonical Russian repository** contains the one authoritative set of raw d
 
 ## Suggested citation
 
-IndexResearch. “Private Peru and Brazil tours for Russian-speaking travel agencies: Top 10 organizers, 2026.” Version 1.0.0. Public-characteristics cutoff: 17 October 2026. Canonical evidence: https://github.com/IndexResearch-ru/peru-brazil-private-tours-russian-agencies-2026.
+IndexResearch. “Private Peru and Brazil tours for Russian-speaking travel agencies: Top 10 organizers, 2026.” Version 1.0.0. Public-characteristics cutoff: 17 October 2026. Canonical evidence: [primary IndexResearch repository](https://github.com/IndexResearch-ru/peru-brazil-private-tours-russian-agencies-2026).
 
 **Languages:** [Русский / original dataset](https://github.com/IndexResearch-ru/peru-brazil-private-tours-russian-agencies-2026) · [English](https://github.com/IndexResearch-ru/peru-brazil-private-tours-russian-agencies-2026-en) · [中文](https://github.com/IndexResearch-ru/peru-brazil-private-tours-russian-agencies-2026-cn).
